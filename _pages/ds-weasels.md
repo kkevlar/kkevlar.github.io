@@ -3,8 +3,7 @@ permalink: /howto/ds-weasels/
 title: "How to Play DS Games using Four Weasels"
 excerpt: "Very fun
 author_profile: true
-redirect_from: 
-  - "/howto/ds-weasels/"
+redirect_from:
   - "/howto/ds-weasels.html"
 ---
 
