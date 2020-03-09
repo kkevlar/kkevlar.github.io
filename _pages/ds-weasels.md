@@ -4,6 +4,7 @@ title: "How to Play DS Games using Four Weasels"
 excerpt: "Very fun"
 redirect_from:
   - "/howto/ds-weasels.html"
+  - "/howto/ds-weasels"
 ---
 
 Can do these things
