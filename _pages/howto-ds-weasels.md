@@ -32,8 +32,6 @@ This method works best with games that mostly use the D-Pad / Buttons not touchs
 </p>
 
 This guide will show you how to set up four weasels to cooperatively control a retro DS game.
-Play it
-
 
 
 # Requirements
@@ -62,8 +60,13 @@ Play it
 
 ![joytokey page](https://i.imgur.com/hNPRDkk.png)
 
-[j2k dl page](https://joytokey.net/en/download)
-[joytokey](https://kkevlar.github.io/files/JoyToKey_en.zip)
+
+Download the tool [here](https://kkevlar.github.io/files/JoyToKey_en.zip) or by visiting their [downloads page](https://joytokey.net/en/download)
+
+![hi](https://i.imgur.com/PvEFg4B.png)
+![hi](https://i.imgur.com/iDZi4fk.png)
+![hi](https://i.imgur.com/BQn2P9a.png)
+
 
 ## Fix DS Hotkeys and Controls
 
