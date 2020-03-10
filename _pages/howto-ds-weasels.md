@@ -7,6 +7,9 @@ redirect_from:
   - "/howto/ds-weasels"
 ---
 
+## Weasels
+
+![weasels](https://www.defygaminguk.com/wp-content/uploads/2019/06/default-shell-600x408.png)
 
 Playing an old DS game with your friends.
 Requires a lot of coordination.
