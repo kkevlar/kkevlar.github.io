@@ -28,10 +28,11 @@ This method works best with games that mostly use the D-Pad / Buttons not touchs
 
 
 <p align="center">
-  <img src="/images/howto-ds-weasels-jc-and-dir.png" alt="motivation"/>
+  <img src="/images/howto-ds-weasels-jc-and-dir.png" alt="motivation" width="600"/>
 </p>
 
-
+This guide will show you how to set up four weasels to cooperatively control a retro DS game.
+Play it
 
 
 
