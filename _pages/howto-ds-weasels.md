@@ -49,29 +49,47 @@ This guide will show you how to set up four weasels to cooperatively control a r
 
 ## Test your game w/ DeSmuMe 
 
-[desume](http://desmume.org/download/)
+Download [desume](http://desmume.org/download/) and try it on you ROM.
 
 ## Pair the Weasels
 
+Connect weasels the same way you connect literally any bluetooth device.
+
 ![Bluetooth](/images/howto-ds-weasels-bluetooth-begin.png)
 
+All four weasels should have "Connected" under them (not pictured here).
+
+![All Paired](https://i.imgur.com/P7hqxPY.png)
 
 ## Configure JoyToKey 
 
-![joytokey page](https://i.imgur.com/hNPRDkk.png)
-
-
 Download the tool [here](https://kkevlar.github.io/files/JoyToKey_en.zip) or by visiting their [downloads page](https://joytokey.net/en/download)
 
+First, make sure that all four weasels seem to visible by joy to key by clicking the "Options" tab.
 ![hi](https://i.imgur.com/PvEFg4B.png)
+
+Next, open up the configuation folder.
 ![hi](https://i.imgur.com/iDZi4fk.png)
+
+Copy [corey.cfg](/files/corey.cfg) into that folder.
+
+You might need to restart JoyToKey with File->Exit to see they "corey" configuration show up on the left side.
+Notice that **all** directions on controller 1 are bound to "W" (Up).
 ![hi](https://i.imgur.com/BQn2P9a.png)
 
 
 ## Fix DS Hotkeys and Controls
 
+Open the Controls Menu from the Emulation tab and change the controls to what you see in the image here:
 ![Control Menu](https://i.imgur.com/RDqyFEL.png)
+
+Open the Hotkey menu and delete all of the hotkeys in the right column using escape.
 ![Hotkey Menu](https://i.imgur.com/o4ozMxG.png)
 
+# Troubleshooting
+
+## Weasels Keep Disconnecting
+
+Move them closer.
 
 
