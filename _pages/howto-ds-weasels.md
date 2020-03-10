@@ -37,10 +37,15 @@ Takes at most 5 mins.
 
 ## Configure JoyToKey 
 
+![joytokey page](https://i.imgur.com/hNPRDkk.png)
+
 [j2k dl page](https://joytokey.net/en/download)
 [joytokey](https://kkevlar.github.io/files/JoyToKey_en.zip)
 
-### Fix DS Hotkeys and Controls
+## Fix DS Hotkeys and Controls
+
+![Control Menu](https://i.imgur.com/RDqyFEL.png)
+![Hotkey Menu](https://i.imgur.com/o4ozMxG.png)
 
 # Mac
 
