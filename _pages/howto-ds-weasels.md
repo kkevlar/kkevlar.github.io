@@ -8,21 +8,18 @@ redirect_from:
 ---
 
 
-
-# Inspiration:
-
 Playing an old DS game with your friends.
 Requires a lot of coordination.
 Best with games that mostly use the D-Pad / Buttons not touchscreen.
 Takes at most 5 mins.
 
-# Requirements:
+# Requirements
 
 * Windows (See Mac? Section)
 * 4 Charged "Weasels"
 * Legally Aquired DS Rom
 
-# Steps:
+# Steps
 
 1. Test your game w/ dessmume
 2. Pair the weasels
@@ -45,7 +42,7 @@ Takes at most 5 mins.
 
 ### Fix DS Hotkeys and Controls
 
-# Mac?
+# Mac
 
 
 

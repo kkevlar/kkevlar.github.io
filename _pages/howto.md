@@ -7,5 +7,5 @@ redirect_from:
   - "/howto"
 ---
 
-[How to Play DS Games using Four Weasels](/howto/ds-weasels)
+[How to Play DS Games using Four "Weasels"](/howto/ds-weasels)
 
