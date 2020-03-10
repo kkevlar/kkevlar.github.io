@@ -65,7 +65,7 @@ All four weasels should have "Connected" under them (not pictured here).
 
 Download the tool [here](https://kkevlar.github.io/files/JoyToKey_en.zip) or by visiting their [downloads page](https://joytokey.net/en/download)
 
-First, make sure that all four weasels seem to visible by joy to key by clicking the "Options" tab.
+First, make sure that all four weasels seem to visible by JoyToKey by clicking the "Options" tab.
 ![hi](https://i.imgur.com/PvEFg4B.png)
 
 Next, open up the configuation folder.
@@ -81,9 +81,11 @@ Notice that **all** directions on controller 1 are bound to "W" (Up).
 ## Fix DS Hotkeys and Controls
 
 Open the Controls Menu from the Emulation tab and change the controls to what you see in the image here:
+
 ![Control Menu](https://i.imgur.com/RDqyFEL.png)
 
 Open the Hotkey menu and delete all of the hotkeys in the right column using escape.
+
 ![Hotkey Menu](https://i.imgur.com/o4ozMxG.png)
 
 # Troubleshooting
