@@ -19,17 +19,25 @@ Weasels (aka Joy Cons) are a super easy way to transform any bad single player g
 
 
 <p align="center">
-  <img src="/files/howto-ds-weasels-corey.png" alt="corey" width="500"/>
+  <img src="/images/howto-ds-weasels-corey.png" alt="corey" width="450"/>
 </p>
 
-Playing an old DS game with your friends.
-Requires a lot of coordination.
-Best with games that mostly use the D-Pad / Buttons not touchscreen.
-Takes at most 5 mins.
+Ever wanted to play garbage, old DS games with your friends?
+This method works best with games that mostly use the D-Pad / Buttons not touchscreen.
+**Takes at most 5 mins.**
+
+
+<p align="center">
+  <img src="/images/howto-ds-weasels-jc-and-dir.png" alt="motivation"/>
+</p>
+
+
+
+
 
 # Requirements
 
-* Windows (See Mac? Section)
+* Windows :( 
 * 4 Charged "Weasels"
 * Legally Aquired DS Rom
 
@@ -60,11 +68,6 @@ Takes at most 5 mins.
 
 ![Control Menu](https://i.imgur.com/RDqyFEL.png)
 ![Hotkey Menu](https://i.imgur.com/o4ozMxG.png)
-
-# Mac
-
-
-
 
 
 
