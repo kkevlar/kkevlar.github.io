@@ -11,12 +11,16 @@ redirect_from:
 
 Weasels (aka Joy Cons) are a super easy way to transform any bad single player game into a multiplayer, cooperative experience.
 
-![weasels](https://www.defygaminguk.com/wp-content/uploads/2019/06/default-shell-600x408.png)
+<p align="center">
+  <img src="https://www.defygaminguk.com/wp-content/uploads/2019/06/default-shell-600x408.png" alt="weasels" width="400"/>
+</p>
 
 ## Motivation
 
 
-<img src="/files/howto-ds-weasels-corey.png" alt="corey" width="200"/>
+<p align="center">
+  <img src="/files/howto-ds-weasels-corey.png" alt="corey" width="500"/>
+</p>
 
 Playing an old DS game with your friends.
 Requires a lot of coordination.
