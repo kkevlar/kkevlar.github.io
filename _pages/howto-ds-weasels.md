@@ -51,6 +51,10 @@ This guide will show you how to set up four weasels to cooperatively control a r
 
 Download [desume](http://desmume.org/download/) and try it on you ROM.
 
+I'd recommend using both screens side by side:
+
+![sbs](https://i.imgur.com/3YTMafC.png)
+
 ## Pair the Weasels
 
 Connect weasels the same way you connect literally any bluetooth device.
@@ -79,6 +83,11 @@ Notice that **all** directions on controller 1 are bound to "W" (Up).
 
 
 ## Fix DS Hotkeys and Controls
+
+Have the Emulator show you what inputs are being pressed (for Troubleshooting):
+
+![input](https://i.imgur.com/WNgTS8f.png)
+
 
 Open the Controls Menu from the Emulation tab and change the controls to what you see in the image here:
 
