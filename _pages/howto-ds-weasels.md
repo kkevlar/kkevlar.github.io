@@ -15,7 +15,8 @@ Weasels (aka Joy Cons) are a super easy way to transform any bad single player g
 
 ## Motivation
 
-![corey](/files/howto-ds-weasels-corey.png)
+
+<img src="/files/howto-ds-weasels-corey.png" alt="corey" width="200"/>
 
 Playing an old DS game with your friends.
 Requires a lot of coordination.
